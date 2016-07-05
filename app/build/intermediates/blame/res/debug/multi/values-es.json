@@ -1,0 +1,3296 @@
+[
+    {
+        "outputFile": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 116,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 116,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 107,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 107,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 122,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 122,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 112,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 112,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endColumn": 107,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 107,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 84,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 84,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 100,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 100,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 127,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 127,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 75,
+                    "endOffset": 1406
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 75,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1411,
+                    "endColumn": 75,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 75,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 81,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 81,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 106,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 106,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 99,
+                    "endOffset": 1771
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 99,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1776,
+                    "endColumn": 98,
+                    "endOffset": 1870
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 98,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1875,
+                    "endColumn": 107,
+                    "endOffset": 1978
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 107,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1983,
+                    "endColumn": 106,
+                    "endOffset": 2085
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 106,
+                        "endOffset": 1688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2090,
+                    "endColumn": 106,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1693,
+                        "endColumn": 106,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 121,
+                    "endOffset": 2314
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 121,
+                        "endOffset": 1917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endColumn": 99,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1922,
+                        "endColumn": 99,
+                        "endOffset": 2017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2419,
+                    "endColumn": 49,
+                    "endOffset": 2464
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2469,
+                    "endColumn": 51,
+                    "endOffset": 2516
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 51,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2521,
+                    "endColumn": 74,
+                    "endOffset": 2591
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 74,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2596,
+                    "endColumn": 103,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 103,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 96,
+                    "endOffset": 2792
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 96,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2797,
+                    "endColumn": 145,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 145,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endColumn": 128,
+                    "endOffset": 3067
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 128,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3072,
+                    "endColumn": 52,
+                    "endOffset": 3120
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 52,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3125,
+                    "endColumn": 61,
+                    "endOffset": 3182
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 61,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3187,
+                    "endColumn": 75,
+                    "endOffset": 3258
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 75,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3263,
+                    "endColumn": 81,
+                    "endOffset": 3340
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 81,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3345,
+                    "endColumn": 51,
+                    "endOffset": 3392
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 51,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3397,
+                    "endColumn": 44,
+                    "endOffset": 3437
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 44,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3442,
+                    "endColumn": 89,
+                    "endOffset": 3527
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 89,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3532,
+                    "endColumn": 96,
+                    "endOffset": 3624
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 96,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3629,
+                    "endColumn": 74,
+                    "endOffset": 3699
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 74,
+                        "endOffset": 1335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3704,
+                    "endColumn": 101,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1340,
+                        "endColumn": 101,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endColumn": 96,
+                    "endOffset": 3898
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 96,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3903,
+                    "endColumn": 78,
+                    "endOffset": 3977
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 78,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3982,
+                    "endColumn": 83,
+                    "endOffset": 4061
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 83,
+                        "endOffset": 1697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4066,
+                    "endColumn": 50,
+                    "endOffset": 4112
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1702,
+                        "endColumn": 50,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4117,
+                    "endColumn": 46,
+                    "endOffset": 4159
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 46,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4164,
+                    "endColumn": 66,
+                    "endOffset": 4226
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 66,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4231,
+                    "endColumn": 83,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1867,
+                        "endColumn": 83,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endColumn": 101,
+                    "endOffset": 4412
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 101,
+                        "endOffset": 2048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4417,
+                    "endColumn": 81,
+                    "endOffset": 4494
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2053,
+                        "endColumn": 81,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4499,
+                    "endColumn": 90,
+                    "endOffset": 4585
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2135,
+                        "endColumn": 90,
+                        "endOffset": 2221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4590,
+                    "endColumn": 86,
+                    "endOffset": 4672
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2226,
+                        "endColumn": 86,
+                        "endOffset": 2308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4677,
+                    "endColumn": 51,
+                    "endOffset": 4724
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2313,
+                        "endColumn": 51,
+                        "endOffset": 2360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4729,
+                    "endColumn": 58,
+                    "endOffset": 4783
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2365,
+                        "endColumn": 58,
+                        "endOffset": 2419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4788,
+                    "endColumn": 360,
+                    "endOffset": 5144
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2424,
+                        "endColumn": 360,
+                        "endOffset": 2780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5149,
+                    "endLine": 66,
+                    "endColumn": 65,
+                    "endOffset": 5557
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2785,
+                        "endLine": 35,
+                        "endColumn": 65,
+                        "endOffset": 3193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5562,
+                    "endColumn": 212,
+                    "endOffset": 5770
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3198,
+                        "endColumn": 212,
+                        "endOffset": 3406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5775,
+                    "endColumn": 352,
+                    "endOffset": 6123
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3411,
+                        "endColumn": 352,
+                        "endOffset": 3759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6128,
+                    "endColumn": 277,
+                    "endOffset": 6401
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3764,
+                        "endColumn": 277,
+                        "endOffset": 4037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6406,
+                    "endColumn": 405,
+                    "endOffset": 6807
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4042,
+                        "endColumn": 405,
+                        "endOffset": 4443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6812,
+                    "endColumn": 54,
+                    "endOffset": 6862
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4448,
+                        "endColumn": 54,
+                        "endOffset": 4498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6867,
+                    "endColumn": 95,
+                    "endOffset": 6958
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4503,
+                        "endColumn": 95,
+                        "endOffset": 4594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6963,
+                    "endColumn": 99,
+                    "endOffset": 7058
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4599,
+                        "endColumn": 99,
+                        "endOffset": 4694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7063,
+                    "endColumn": 95,
+                    "endOffset": 7154
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4699,
+                        "endColumn": 95,
+                        "endOffset": 4790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7159,
+                    "endColumn": 88,
+                    "endOffset": 7243
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4795,
+                        "endColumn": 88,
+                        "endOffset": 4879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7248,
+                    "endColumn": 108,
+                    "endOffset": 7352
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4884,
+                        "endColumn": 108,
+                        "endOffset": 4988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7357,
+                    "endColumn": 318,
+                    "endOffset": 7671
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4993,
+                        "endColumn": 318,
+                        "endOffset": 5307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7676,
+                    "endColumn": 74,
+                    "endOffset": 7746
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 5312,
+                        "endColumn": 74,
+                        "endOffset": 5382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7751,
+                    "endColumn": 112,
+                    "endOffset": 7859
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 5387,
+                        "endColumn": 112,
+                        "endOffset": 5495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 7864,
+                    "endColumn": 100,
+                    "endOffset": 7960
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 100,
+                        "endOffset": 2118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7965,
+                    "endColumn": 54,
+                    "endOffset": 8015
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8020,
+                    "endColumn": 66,
+                    "endOffset": 8082
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 66,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8087,
+                    "endColumn": 61,
+                    "endOffset": 8144
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 61,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8149,
+                    "endColumn": 60,
+                    "endOffset": 8205
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 60,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8210,
+                    "endColumn": 71,
+                    "endOffset": 8277
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 71,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8282,
+                    "endColumn": 56,
+                    "endOffset": 8334
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 56,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8339,
+                    "endColumn": 44,
+                    "endOffset": 8379
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 44,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8384,
+                    "endColumn": 47,
+                    "endOffset": 8427
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 47,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8432,
+                    "endColumn": 63,
+                    "endOffset": 8491
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 63,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8496,
+                    "endColumn": 71,
+                    "endOffset": 8563
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 71,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8568,
+                    "endColumn": 46,
+                    "endOffset": 8610
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 46,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 8615,
+                    "endColumn": 72,
+                    "endOffset": 8683
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 72,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 8688,
+                    "endColumn": 128,
+                    "endOffset": 8812
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 128,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 8817,
+                    "endColumn": 305,
+                    "endOffset": 9118
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 305,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9123,
+                    "endColumn": 93,
+                    "endOffset": 9212
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 93,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9217,
+                    "endColumn": 75,
+                    "endOffset": 9288
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 75,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9293,
+                    "endColumn": 59,
+                    "endOffset": 9348
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1196,
+                        "endColumn": 59,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9353,
+                    "endColumn": 75,
+                    "endOffset": 9424
+                },
+                "from": {
+                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 75,
+                        "endOffset": 1327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 320,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 116,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 116,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 107,
+                    "endOffset": 672
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 107,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 677,
+                    "endColumn": 122,
+                    "endOffset": 795
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 122,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 800,
+                    "endColumn": 112,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 112,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endColumn": 107,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 107,
+                        "endOffset": 619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 84,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 84,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 100,
+                    "endOffset": 1202
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 100,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1207,
+                    "endColumn": 127,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 127,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 75,
+                    "endOffset": 1406
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 75,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1411,
+                    "endColumn": 75,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 75,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 81,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 81,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 106,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 106,
+                        "endOffset": 1274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 99,
+                    "endOffset": 1771
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1279,
+                        "endColumn": 99,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1776,
+                    "endColumn": 98,
+                    "endOffset": 1870
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1379,
+                        "endColumn": 98,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1875,
+                    "endColumn": 107,
+                    "endOffset": 1978
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 107,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1983,
+                    "endColumn": 106,
+                    "endOffset": 2085
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 106,
+                        "endOffset": 1688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2090,
+                    "endColumn": 106,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1693,
+                        "endColumn": 106,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 121,
+                    "endOffset": 2314
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 121,
+                        "endOffset": 1917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2319,
+                    "endColumn": 99,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1922,
+                        "endColumn": 99,
+                        "endOffset": 2017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2419,
+                    "endColumn": 49,
+                    "endOffset": 2464
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2469,
+                    "endColumn": 51,
+                    "endOffset": 2516
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 51,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2521,
+                    "endColumn": 74,
+                    "endOffset": 2591
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 74,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2596,
+                    "endColumn": 103,
+                    "endOffset": 2695
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 103,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2700,
+                    "endColumn": 96,
+                    "endOffset": 2792
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 96,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2797,
+                    "endColumn": 145,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 145,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endColumn": 128,
+                    "endOffset": 3067
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 128,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3072,
+                    "endColumn": 52,
+                    "endOffset": 3120
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 52,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3125,
+                    "endColumn": 61,
+                    "endOffset": 3182
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 761,
+                        "endColumn": 61,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3187,
+                    "endColumn": 75,
+                    "endOffset": 3258
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 75,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3263,
+                    "endColumn": 81,
+                    "endOffset": 3340
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 81,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3345,
+                    "endColumn": 51,
+                    "endOffset": 3392
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 51,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3397,
+                    "endColumn": 44,
+                    "endOffset": 3437
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 44,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3442,
+                    "endColumn": 89,
+                    "endOffset": 3527
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 89,
+                        "endOffset": 1163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3532,
+                    "endColumn": 96,
+                    "endOffset": 3624
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1168,
+                        "endColumn": 96,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3629,
+                    "endColumn": 74,
+                    "endOffset": 3699
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 74,
+                        "endOffset": 1335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3704,
+                    "endColumn": 101,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1340,
+                        "endColumn": 101,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endColumn": 96,
+                    "endOffset": 3898
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 96,
+                        "endOffset": 1534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3903,
+                    "endColumn": 78,
+                    "endOffset": 3977
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1539,
+                        "endColumn": 78,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3982,
+                    "endColumn": 83,
+                    "endOffset": 4061
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 83,
+                        "endOffset": 1697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4066,
+                    "endColumn": 50,
+                    "endOffset": 4112
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1702,
+                        "endColumn": 50,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4117,
+                    "endColumn": 46,
+                    "endOffset": 4159
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 46,
+                        "endOffset": 1795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4164,
+                    "endColumn": 66,
+                    "endOffset": 4226
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1800,
+                        "endColumn": 66,
+                        "endOffset": 1862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4231,
+                    "endColumn": 83,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1867,
+                        "endColumn": 83,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endColumn": 101,
+                    "endOffset": 4412
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1951,
+                        "endColumn": 101,
+                        "endOffset": 2048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4417,
+                    "endColumn": 81,
+                    "endOffset": 4494
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2053,
+                        "endColumn": 81,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4499,
+                    "endColumn": 90,
+                    "endOffset": 4585
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2135,
+                        "endColumn": 90,
+                        "endOffset": 2221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4590,
+                    "endColumn": 86,
+                    "endOffset": 4672
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2226,
+                        "endColumn": 86,
+                        "endOffset": 2308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4677,
+                    "endColumn": 51,
+                    "endOffset": 4724
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2313,
+                        "endColumn": 51,
+                        "endOffset": 2360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4729,
+                    "endColumn": 58,
+                    "endOffset": 4783
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2365,
+                        "endColumn": 58,
+                        "endOffset": 2419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4788,
+                    "endColumn": 360,
+                    "endOffset": 5144
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2424,
+                        "endColumn": 360,
+                        "endOffset": 2780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5149,
+                    "endLine": 66,
+                    "endColumn": 65,
+                    "endOffset": 5557
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2785,
+                        "endLine": 35,
+                        "endColumn": 65,
+                        "endOffset": 3193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5562,
+                    "endColumn": 212,
+                    "endOffset": 5770
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3198,
+                        "endColumn": 212,
+                        "endOffset": 3406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5775,
+                    "endColumn": 352,
+                    "endOffset": 6123
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3411,
+                        "endColumn": 352,
+                        "endOffset": 3759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6128,
+                    "endColumn": 277,
+                    "endOffset": 6401
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3764,
+                        "endColumn": 277,
+                        "endOffset": 4037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6406,
+                    "endColumn": 405,
+                    "endOffset": 6807
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 4042,
+                        "endColumn": 405,
+                        "endOffset": 4443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6812,
+                    "endColumn": 54,
+                    "endOffset": 6862
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4448,
+                        "endColumn": 54,
+                        "endOffset": 4498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6867,
+                    "endColumn": 95,
+                    "endOffset": 6958
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4503,
+                        "endColumn": 95,
+                        "endOffset": 4594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6963,
+                    "endColumn": 99,
+                    "endOffset": 7058
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4599,
+                        "endColumn": 99,
+                        "endOffset": 4694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7063,
+                    "endColumn": 95,
+                    "endOffset": 7154
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4699,
+                        "endColumn": 95,
+                        "endOffset": 4790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7159,
+                    "endColumn": 88,
+                    "endOffset": 7243
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4795,
+                        "endColumn": 88,
+                        "endOffset": 4879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7248,
+                    "endColumn": 108,
+                    "endOffset": 7352
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4884,
+                        "endColumn": 108,
+                        "endOffset": 4988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7357,
+                    "endColumn": 318,
+                    "endOffset": 7671
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4993,
+                        "endColumn": 318,
+                        "endOffset": 5307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7676,
+                    "endColumn": 74,
+                    "endOffset": 7746
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 5312,
+                        "endColumn": 74,
+                        "endOffset": 5382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7751,
+                    "endColumn": 112,
+                    "endOffset": 7859
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 5387,
+                        "endColumn": 112,
+                        "endOffset": 5495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 7864,
+                    "endColumn": 100,
+                    "endOffset": 7960
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 100,
+                        "endOffset": 2118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7965,
+                    "endColumn": 54,
+                    "endOffset": 8015
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8020,
+                    "endColumn": 66,
+                    "endOffset": 8082
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 66,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8087,
+                    "endColumn": 61,
+                    "endOffset": 8144
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 61,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8149,
+                    "endColumn": 60,
+                    "endOffset": 8205
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 60,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8210,
+                    "endColumn": 71,
+                    "endOffset": 8277
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 71,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8282,
+                    "endColumn": 56,
+                    "endOffset": 8334
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 56,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8339,
+                    "endColumn": 44,
+                    "endOffset": 8379
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 44,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8384,
+                    "endColumn": 47,
+                    "endOffset": 8427
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 47,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8432,
+                    "endColumn": 63,
+                    "endOffset": 8491
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 63,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8496,
+                    "endColumn": 71,
+                    "endOffset": 8563
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 71,
+                        "endOffset": 866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8568,
+                    "endColumn": 46,
+                    "endOffset": 8610
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 46,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 8615,
+                    "endColumn": 72,
+                    "endOffset": 8683
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 72,
+                        "endOffset": 986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 8688,
+                    "endColumn": 128,
+                    "endOffset": 8812
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 991,
+                        "endColumn": 128,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 8817,
+                    "endColumn": 305,
+                    "endOffset": 9118
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 305,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9123,
+                    "endColumn": 93,
+                    "endOffset": 9212
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 545,
+                        "endColumn": 93,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9217,
+                    "endColumn": 75,
+                    "endOffset": 9288
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 75,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9293,
+                    "endColumn": 59,
+                    "endOffset": 9348
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1196,
+                        "endColumn": 59,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9353,
+                    "endColumn": 75,
+                    "endOffset": 9424
+                },
+                "from": {
+                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-es\\values-es.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 75,
+                        "endOffset": 1327
+                    }
+                }
+            }
+        ]
+    }
+]

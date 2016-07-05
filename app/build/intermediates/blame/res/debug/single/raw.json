@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tw__cacerts",
+        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\raw\\tw__cacerts"
+    },
+    {
+        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tw__cacerts",
+        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\raw\\tw__cacerts"
+    }
+]

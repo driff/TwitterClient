@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="63209522279608"
+    token="1673531613954047532" >
+
+    <task
+        name="javac"
+        duration="1296" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="107" />
+    <task
+        name="verifier"
+        duration="23" />
+
+    <artifact
+        location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+
+    <build timestamp="57801272393043" >
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="60607638502635"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="60975555947379"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="61621524924637"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="62789120834828" >
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="63209522279608" >
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

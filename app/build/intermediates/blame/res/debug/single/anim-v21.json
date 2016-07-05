@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

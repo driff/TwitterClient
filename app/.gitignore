@@ -2,3 +2,4 @@
 *.properties
 *.apk
 .gitignore
+/build/generated/fabric/

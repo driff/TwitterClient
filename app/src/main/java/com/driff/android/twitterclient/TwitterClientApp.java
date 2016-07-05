@@ -16,6 +16,8 @@ import com.driff.android.twitterclient.images.di.ImagesModule;
 import com.driff.android.twitterclient.images.ui.ImagesView;
 import com.driff.android.twitterclient.lib.di.LibsModule;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
+import com.raizlabs.android.dbflow.config.FlowConfig;
+import com.raizlabs.android.dbflow.config.FlowManager;
 import com.twitter.sdk.android.Twitter;
 import com.twitter.sdk.android.core.TwitterAuthConfig;
 
@@ -33,6 +35,7 @@ public class TwitterClientApp extends Application{
     public void onCreate() {
         super.onCreate();
         initFabric();
+        FlowManager.init(new FlowConfig.Builder(this).build());
     }
 
     private void initFabric() {
