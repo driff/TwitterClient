@@ -2,7 +2,7 @@ package com.driff.android.twitterclient.images.di;
 
 
 import com.driff.android.twitterclient.api.CustomTwitterApiClient;
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.images.ImagesInteractor;
 import com.driff.android.twitterclient.images.ImagesInteractorImpl;
 import com.driff.android.twitterclient.images.ImagesPresenter;
@@ -32,7 +32,7 @@ import dagger.Provides;
 public class ImagesModule {
 
     private ImagesView view;
-    private OnItemClickListener<Image> clickListener;
+    private OnItemClickListener<MyTweet> clickListener;
 
     public ImagesModule(ImagesView view, OnItemClickListener clickListener) {
         this.view = view;
@@ -40,22 +40,22 @@ public class ImagesModule {
     }
 
     @Provides
-    ImagesAdapter providesAdapter(List<Image> dataset, ImageLoader imageLoader, OnItemClickListener<Image> clickListener) {
+    ImagesAdapter providesAdapter(List<MyTweet> dataset, ImageLoader imageLoader, OnItemClickListener<MyTweet> clickListener) {
         return new ImagesAdapter(dataset, imageLoader, clickListener);
     }
 
 
     @Provides
     @Singleton
-    OnItemClickListener<Image> providesOnItemClickListener() {
+    OnItemClickListener<MyTweet> providesOnItemClickListener() {
         return this.clickListener;
     }
 
 
     @Provides
     @Singleton
-    List<Image> providesItemsList() {
-        return new ArrayList<Image>();
+    List<MyTweet> providesItemsList() {
+        return new ArrayList<MyTweet>();
     }
 
 

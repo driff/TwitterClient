@@ -1,6 +1,6 @@
 package com.driff.android.twitterclient.hashtags.events;
 
-import com.driff.android.twitterclient.entities.Hashtag;
+import com.driff.android.twitterclient.entities.MyTweet;
 
 import java.util.List;
 
@@ -10,7 +10,7 @@ import java.util.List;
 public class HashtagsEvent {
 
     private String error;
-    private List<Hashtag> items;
+    private List<MyTweet> items;
 
     public String getError() {
         return error;
@@ -20,11 +20,11 @@ public class HashtagsEvent {
         this.error = error;
     }
 
-    public List<Hashtag> getItems() {
+    public List<MyTweet> getItems() {
         return items;
     }
 
-    public void setItems(List<Hashtag> items) {
+    public void setItems(List<MyTweet> items) {
         this.items = items;
     }
 

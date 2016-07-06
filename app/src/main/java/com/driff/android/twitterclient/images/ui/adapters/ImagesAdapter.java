@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.driff.android.twitterclient.R;
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.lib.base.ImageLoader;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
 
@@ -22,11 +22,11 @@ import butterknife.ButterKnife;
  */
 public class ImagesAdapter extends RecyclerView.Adapter<ImagesAdapter.ViewHolder> {
 
-    private List<Image> dataset;
+    private List<MyTweet> dataset;
     private ImageLoader imageLoader;
-    private OnItemClickListener<Image> clickListener;
+    private OnItemClickListener<MyTweet> clickListener;
 
-    public ImagesAdapter(List<Image> dataset, ImageLoader imageLoader, OnItemClickListener<Image> clickListener) {
+    public ImagesAdapter(List<MyTweet> dataset, ImageLoader imageLoader, OnItemClickListener<MyTweet> clickListener) {
         this.dataset = dataset;
         this.imageLoader = imageLoader;
         this.clickListener = clickListener;
@@ -39,14 +39,14 @@ public class ImagesAdapter extends RecyclerView.Adapter<ImagesAdapter.ViewHolder
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        Image imageTweet = dataset.get(position);
+        MyTweet imageTweet = dataset.get(position);
         holder.setOnClickListener(imageTweet, clickListener);
         holder.txtTweet.setText(imageTweet.getTweetText());
         holder.txtUser.setText(imageTweet.getUserName());
         imageLoader.load(holder.imgMedia, imageTweet.getImageURL());
     }
 
-    public void setItems(List<Image> newItems){
+    public void setItems(List<MyTweet> newItems){
         dataset.addAll(newItems);
         notifyDataSetChanged();
     }
@@ -71,7 +71,7 @@ public class ImagesAdapter extends RecyclerView.Adapter<ImagesAdapter.ViewHolder
             this.view = itemView;
         }
 
-        public void setOnClickListener(final Image image, final OnItemClickListener<Image> listener) {
+        public void setOnClickListener(final MyTweet image, final OnItemClickListener<MyTweet> listener) {
             view.setOnClickListener(new View.OnClickListener(){
                 @Override
                 public void onClick(View v) {

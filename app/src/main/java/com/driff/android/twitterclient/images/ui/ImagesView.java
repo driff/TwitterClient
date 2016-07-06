@@ -1,11 +1,11 @@
 package com.driff.android.twitterclient.images.ui;
 
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 
 import java.util.List;
 
 /**
- * Created by johnj on 18/6/2016.
+ * Created by johnj on 5/7/2016.
  */
 public interface ImagesView {
 
@@ -15,6 +15,6 @@ public interface ImagesView {
     void hideProgressBar();
 
     void onError(String error);
-    void setContent(List<Image> items);
+    void setContent(List<MyTweet> items);
 
 }

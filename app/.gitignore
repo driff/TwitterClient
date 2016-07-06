@@ -3,3 +3,4 @@
 *.apk
 .gitignore
 /build/generated/fabric/
+/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml

@@ -1,6 +1,6 @@
 package com.driff.android.twitterclient.hashtags.ui;
 
-import com.driff.android.twitterclient.entities.Hashtag;
+import com.driff.android.twitterclient.entities.MyTweet;
 
 import java.util.List;
 
@@ -15,6 +15,6 @@ public interface HashtagsView {
     void hideProgressBar();
 
     void onError(String error);
-    void setContent(List<Hashtag> items);
+    void setContent(List<MyTweet> items);
 
 }

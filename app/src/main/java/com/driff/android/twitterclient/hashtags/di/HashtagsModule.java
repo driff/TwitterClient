@@ -2,7 +2,7 @@ package com.driff.android.twitterclient.hashtags.di;
 
 
 import com.driff.android.twitterclient.api.CustomTwitterApiClient;
-import com.driff.android.twitterclient.entities.Hashtag;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.hashtags.HashtagsInteractor;
 import com.driff.android.twitterclient.hashtags.HashtagsInteractorImpl;
 import com.driff.android.twitterclient.hashtags.HashtagsPresenter;
@@ -31,7 +31,7 @@ import dagger.Provides;
 public class HashtagsModule {
 
     private HashtagsView view;
-    private OnItemClickListener<Hashtag> clickListener;
+    private OnItemClickListener<MyTweet> clickListener;
 
     public HashtagsModule(HashtagsView view, OnItemClickListener clickListener) {
         this.view = view;
@@ -39,22 +39,22 @@ public class HashtagsModule {
     }
 
     @Provides
-    HashtagsAdapter providesAdapter(List<Hashtag> dataset, OnItemClickListener<Hashtag> clickListener) {
+    HashtagsAdapter providesAdapter(List<MyTweet> dataset, OnItemClickListener<MyTweet> clickListener) {
         return new HashtagsAdapter(dataset, clickListener);
     }
 
 
     @Provides
     @Singleton
-    OnItemClickListener<Hashtag> providesOnItemClickListener() {
+    OnItemClickListener<MyTweet> providesOnItemClickListener() {
         return this.clickListener;
     }
 
 
     @Provides
     @Singleton
-    List<Hashtag> providesItemsList() {
-        return new ArrayList<Hashtag>();
+    List<MyTweet> providesItemsList() {
+        return new ArrayList<MyTweet>();
     }
 
 

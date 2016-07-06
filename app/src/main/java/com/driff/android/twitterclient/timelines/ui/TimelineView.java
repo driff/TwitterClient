@@ -1,6 +1,7 @@
 package com.driff.android.twitterclient.timelines.ui;
 
-import com.driff.android.twitterclient.entities.Timeline;
+
+import com.driff.android.twitterclient.entities.MyTweet;
 
 import java.util.List;
 
@@ -15,6 +16,6 @@ public interface TimelineView {
     void hideProgressBar();
 
     void onError(String error);
-    void setContent(List<Timeline> items);
+    void setContent(List<MyTweet> items);
 
 }

@@ -15,7 +15,7 @@ import android.widget.ProgressBar;
 
 import com.driff.android.twitterclient.R;
 import com.driff.android.twitterclient.TwitterClientApp;
-import com.driff.android.twitterclient.entities.Hashtag;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.hashtags.HashtagsPresenter;
 import com.driff.android.twitterclient.hashtags.di.HashtagsComponent;
 import com.driff.android.twitterclient.hashtags.ui.adapters.HashtagsAdapter;
@@ -32,7 +32,7 @@ import butterknife.ButterKnife;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class HashtagsFragment extends Fragment implements HashtagsView, OnItemClickListener<Hashtag> {
+public class HashtagsFragment extends Fragment implements HashtagsView, OnItemClickListener<MyTweet> {
 
 
     @Bind(R.id.progressBar)
@@ -119,12 +119,12 @@ public class HashtagsFragment extends Fragment implements HashtagsView, OnItemCl
     }
 
     @Override
-    public void setContent(List<Hashtag> items) {
+    public void setContent(List<MyTweet> items) {
         adapter.setItems(items);
     }
 
     @Override
-    public void onItemClick(Hashtag hashtag) {
+    public void onItemClick(MyTweet hashtag) {
         /*Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(hashtag.getTweetUrl()));*/
         Intent i = new Intent(getContext(), TweetActivity.class);
         i.putExtra(TweetActivity.TWEET_KEY, hashtag.getId());

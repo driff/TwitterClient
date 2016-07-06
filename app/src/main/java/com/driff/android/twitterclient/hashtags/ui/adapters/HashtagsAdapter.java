@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.driff.android.twitterclient.R;
-import com.driff.android.twitterclient.entities.Hashtag;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
 
 import java.util.ArrayList;
@@ -22,10 +22,10 @@ import butterknife.ButterKnife;
  */
 public class HashtagsAdapter extends RecyclerView.Adapter<HashtagsAdapter.ViewHolder> {
 
-    private List<Hashtag> dataset;
-    private OnItemClickListener<Hashtag> clickListener;
+    private List<MyTweet> dataset;
+    private OnItemClickListener<MyTweet> clickListener;
 
-    public HashtagsAdapter(List<Hashtag> dataset, OnItemClickListener<Hashtag> clickListener) {
+    public HashtagsAdapter(List<MyTweet> dataset, OnItemClickListener<MyTweet> clickListener) {
         this.dataset = dataset;
         this.clickListener = clickListener;
     }
@@ -37,7 +37,7 @@ public class HashtagsAdapter extends RecyclerView.Adapter<HashtagsAdapter.ViewHo
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        Hashtag hashtagTweet = dataset.get(position);
+        MyTweet hashtagTweet = dataset.get(position);
         holder.setOnClickListener(hashtagTweet, clickListener);
         holder.txtTweet.setText(hashtagTweet.getTweetText());
         //Log.i("hastagAdapter.user: ",hashtagTweet.getUserName());
@@ -45,7 +45,7 @@ public class HashtagsAdapter extends RecyclerView.Adapter<HashtagsAdapter.ViewHo
         holder.setItems(hashtagTweet.getHashtags());
     }
 
-    public void setItems(List<Hashtag> newItems){
+    public void setItems(List<MyTweet> newItems){
         dataset.addAll(newItems);
         notifyDataSetChanged();
     }
@@ -86,7 +86,7 @@ public class HashtagsAdapter extends RecyclerView.Adapter<HashtagsAdapter.ViewHo
             adapter.notifyDataSetChanged();
         }
 
-        public void setOnClickListener(final Hashtag hashtag, final OnItemClickListener<Hashtag> listener) {
+        public void setOnClickListener(final MyTweet hashtag, final OnItemClickListener<MyTweet> listener) {
             view.setOnClickListener(new View.OnClickListener(){
                 @Override
                 public void onClick(View v) {

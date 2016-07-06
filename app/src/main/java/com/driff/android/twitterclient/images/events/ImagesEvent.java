@@ -1,6 +1,6 @@
 package com.driff.android.twitterclient.images.events;
 
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 
 import java.util.List;
 
@@ -10,7 +10,7 @@ import java.util.List;
 public class ImagesEvent {
 
     private String error;
-    private List<Image> items;
+    private List<MyTweet> items;
 
     public String getError() {
         return error;
@@ -20,11 +20,11 @@ public class ImagesEvent {
         this.error = error;
     }
 
-    public List<Image> getItems() {
+    public List<MyTweet> getItems() {
         return items;
     }
 
-    public void setItems(List<Image> items) {
+    public void setItems(List<MyTweet> items) {
         this.items = items;
     }
 

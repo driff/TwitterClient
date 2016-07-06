@@ -14,7 +14,7 @@ import android.widget.ProgressBar;
 
 import com.driff.android.twitterclient.R;
 import com.driff.android.twitterclient.TwitterClientApp;
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.images.ImagesPresenter;
 import com.driff.android.twitterclient.images.di.ImagesComponent;
 import com.driff.android.twitterclient.images.ui.adapters.ImagesAdapter;
@@ -31,7 +31,7 @@ import butterknife.ButterKnife;
 /**
  * Created by johnj on 18/6/2016.
  */
-public class ImagesFragment extends Fragment implements ImagesView, OnItemClickListener<Image> {
+public class ImagesFragment extends Fragment implements ImagesView, OnItemClickListener<MyTweet> {
 
     @Bind(R.id.progressBar)
     ProgressBar progressBar;
@@ -117,12 +117,12 @@ public class ImagesFragment extends Fragment implements ImagesView, OnItemClickL
     }
 
     @Override
-    public void setContent(List<Image> items) {
+    public void setContent(List<MyTweet> items) {
         adapter.setItems(items);
     }
 
     @Override
-    public void onItemClick(Image image) {
+    public void onItemClick(MyTweet image) {
         /*Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(image.getTweetUrl()));*/
         Intent i = new Intent(getContext(), TweetActivity.class);
         i.putExtra(TweetActivity.TWEET_KEY, image.getId());

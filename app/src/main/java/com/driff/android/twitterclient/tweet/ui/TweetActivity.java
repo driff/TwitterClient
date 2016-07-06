@@ -3,6 +3,7 @@ package com.driff.android.twitterclient.tweet.ui;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -14,7 +15,13 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.driff.android.twitterclient.R;
+import com.driff.android.twitterclient.entities.MyTweet;
+import com.driff.android.twitterclient.entities.MyTweet_Table;
 import com.driff.android.twitterclient.utils.TweetUtils;
+import com.raizlabs.android.dbflow.config.FlowManager;
+import com.raizlabs.android.dbflow.sql.language.CursorResult;
+import com.raizlabs.android.dbflow.sql.language.SQLite;
+import com.raizlabs.android.dbflow.structure.database.transaction.QueryTransaction;
 import com.twitter.sdk.android.core.Callback;
 import com.twitter.sdk.android.core.Result;
 import com.twitter.sdk.android.core.TwitterException;
@@ -56,7 +63,7 @@ public class TweetActivity extends AppCompatActivity {
     }
 
     private void loadTweet(Intent intent) {
-        String tweetId = intent.getStringExtra(TWEET_KEY);
+        final String tweetId = intent.getStringExtra(TWEET_KEY);
         com.twitter.sdk.android.tweetui.TweetUtils.loadTweet(Long.parseLong(tweetId), new Callback<Tweet>() {
             @Override
             public void success(Result<Tweet> result) {
@@ -79,10 +86,33 @@ public class TweetActivity extends AppCompatActivity {
             @Override
             public void failure(TwitterException exception) {
                 Log.e(this.getClass().getSimpleName(), exception.getLocalizedMessage());
+                //final MyTweet[] t = new MyTweet[1];
+                FlowManager.getDatabaseForTable(MyTweet.class)
+                    .beginTransactionAsync(new QueryTransaction.Builder<>(
+                        SQLite.select()
+                                .from(MyTweet.class)
+                                .where(MyTweet_Table.id.is(tweetId)))
+                        .queryResult(new QueryTransaction.QueryResultCallback<MyTweet>() {
+                            @Override
+                            public void onQueryResult(QueryTransaction transaction, @NonNull CursorResult<MyTweet> tResult) {
+                                MyTweet myTweet = tResult.toModelClose();
+                                txtUser.setText("@"+myTweet.getUserName());
+                                String tweetText = myTweet.getTweetText();
+                                int index = tweetText.indexOf("http");
+                                if (index > 0) {
+                                    tweetText = tweetText.substring(0, index);
+                                }
+                                txtTweet.setText(tweetText);
+                                if(!myTweet.getImageURL().isEmpty()){
+                                    //String imageUrl = currentPhoto.mediaUrl;
+                                    Glide.with(getApplicationContext()).load(myTweet.getImageURL()).into(imgTweet);
+                                }
+                            }
+                        }).build())
+                    .build().execute();
             }
         });
     }
-
 
     @OnClick({R.id.imgTweet, R.id.ibtReply, R.id.ibtRetweet, R.id.ibtLike})
     public void onClick(View view) {

@@ -4,8 +4,7 @@ import android.app.Application;
 import android.support.v4.app.Fragment;
 
 import com.crashlytics.android.Crashlytics;
-import com.driff.android.twitterclient.entities.Hashtag;
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.hashtags.di.DaggerHashtagsComponent;
 import com.driff.android.twitterclient.hashtags.di.HashtagsComponent;
 import com.driff.android.twitterclient.hashtags.di.HashtagsModule;
@@ -35,7 +34,7 @@ public class TwitterClientApp extends Application{
     public void onCreate() {
         super.onCreate();
         initFabric();
-        FlowManager.init(new FlowConfig.Builder(this).build());
+        FlowManager.init(new FlowConfig.Builder(this).openDatabasesOnInit(true).build());
     }
 
     private void initFabric() {
@@ -43,14 +42,14 @@ public class TwitterClientApp extends Application{
         Fabric.with(this, new Twitter(authConfig), new Crashlytics());
     }
 
-    public ImagesComponent getImagesComponent(Fragment fragment, ImagesView view, OnItemClickListener<Image> clickListener){
+    public ImagesComponent getImagesComponent(Fragment fragment, ImagesView view, OnItemClickListener<MyTweet> clickListener){
         return DaggerImagesComponent
             .builder()
             .libsModule(new LibsModule(fragment))
             .imagesModule(new ImagesModule(view, clickListener))
             .build();
     }
-    public HashtagsComponent getHashtagsComponent(HashtagsView view, OnItemClickListener<Hashtag> clickListener){
+    public HashtagsComponent getHashtagsComponent(HashtagsView view, OnItemClickListener<MyTweet> clickListener){
         return DaggerHashtagsComponent
             .builder()
             .libsModule(new LibsModule(null))
@@ -58,4 +57,9 @@ public class TwitterClientApp extends Application{
             .build();
     }
 
+    @Override
+    public void onTerminate() {
+        FlowManager.destroy();
+        super.onTerminate();
+    }
 }
