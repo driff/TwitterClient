@@ -56,7 +56,6 @@ public class HashtagsAdapter extends RecyclerView.Adapter<HashtagsAdapter.ViewHo
     }
 
     class ViewHolder extends RecyclerView.ViewHolder {
-        private View view;
         @Bind(R.id.txtTweet)
         TextView txtTweet;
         @Bind(R.id.recyclerView)
@@ -65,6 +64,7 @@ public class HashtagsAdapter extends RecyclerView.Adapter<HashtagsAdapter.ViewHo
         TextView txtUser;
 
         private HashtagListAdapter adapter;
+        private View view;
         private ArrayList<String> items;
 
         public ViewHolder(View itemView, Context context) {

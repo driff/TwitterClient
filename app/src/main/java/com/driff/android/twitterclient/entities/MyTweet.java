@@ -20,6 +20,7 @@ public class MyTweet extends BaseModel{
     @Column private String userName;
     @SerializedName("image_url")
     @Column private String imageURL;
+    @Column private String userAvatarURL;
     @Column private int favoriteCount;
     @Column private int retweetCount;
     @Column private boolean retweeted;
@@ -35,6 +36,14 @@ public class MyTweet extends BaseModel{
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    public String getUserAvatarURL() {
+        return userAvatarURL;
+    }
+
+    public void setUserAvatarURL(String userAvatarURL) {
+        this.userAvatarURL = userAvatarURL;
     }
 
     public int getRetweetCount() {

@@ -10,8 +10,8 @@ import java.util.List;
  */
 public interface TimelineView {
 
-    void showHashtags();
-    void hideHashtags();
+    void showTimeline();
+    void hideTimeline();
     void showProgressBar();
     void hideProgressBar();
 

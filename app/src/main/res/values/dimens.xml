@@ -5,4 +5,5 @@
     <dimen name="appbar_padding_top">8dp</dimen>
     <dimen name="tweet_reply_img_margin">64dp</dimen>
     <dimen name="hashtag_padding">4dp</dimen>
+    <dimen name="timeline_button_size">42dp</dimen>
 </resources>

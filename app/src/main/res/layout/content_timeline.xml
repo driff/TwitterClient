@@ -46,7 +46,37 @@
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_below="@+id/txtTweet"/>
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtTweet"
+            android:layout_alignParentEnd="true" />
+
+
+        <ImageButton
+            android:layout_width="@dimen/timeline_button_size"
+            android:layout_height="@dimen/timeline_button_size"
+            android:id="@+id/btnRT"
+            android:tint="@color/tw__medium_gray"
+            android:src="@android:drawable/stat_notify_sync_noanim"
+            android:layout_below="@+id/recyclerView"
+            android:layout_toLeftOf="@+id/btnFav"/>
+
+        <ImageButton
+            android:layout_width="@dimen/timeline_button_size"
+            android:layout_height="@dimen/timeline_button_size"
+            android:id="@+id/btnFav"
+            android:src="@drawable/tw__action_heart_off_default"
+            android:tint="@color/tw__medium_gray"
+            android:layout_below="@+id/recyclerView"
+            android:layout_toLeftOf="@+id/btnShare" />
+
+        <ImageButton
+            android:layout_width="@dimen/timeline_button_size"
+            android:layout_height="@dimen/timeline_button_size"
+            android:id="@+id/btnShare"
+            android:tint="@color/tw__medium_gray"
+            android:src="@android:drawable/ic_menu_share"
+            android:layout_below="@+id/recyclerView"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
     </RelativeLayout>
 </android.support.v7.widget.CardView>
