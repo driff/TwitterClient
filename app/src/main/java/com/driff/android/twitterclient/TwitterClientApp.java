@@ -14,6 +14,10 @@ import com.driff.android.twitterclient.images.di.ImagesComponent;
 import com.driff.android.twitterclient.images.di.ImagesModule;
 import com.driff.android.twitterclient.images.ui.ImagesView;
 import com.driff.android.twitterclient.lib.di.LibsModule;
+import com.driff.android.twitterclient.timelines.di.DaggerTimelineComponent;
+import com.driff.android.twitterclient.timelines.di.TimelineComponent;
+import com.driff.android.twitterclient.timelines.di.TimelineModule;
+import com.driff.android.twitterclient.timelines.ui.TimelineView;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
 import com.raizlabs.android.dbflow.config.FlowConfig;
 import com.raizlabs.android.dbflow.config.FlowManager;
@@ -55,6 +59,13 @@ public class TwitterClientApp extends Application{
             .libsModule(new LibsModule(null))
             .hashtagsModule(new HashtagsModule(view, clickListener))
             .build();
+    }
+    public TimelineComponent getTimelineComponent(Fragment fragment, TimelineView view, OnItemClickListener<MyTweet> clickListener){
+        return DaggerTimelineComponent
+                .builder()
+                .libsModule(new LibsModule(fragment))
+                .timelineModule(new TimelineModule(view, clickListener))
+                .build();
     }
 
     @Override
