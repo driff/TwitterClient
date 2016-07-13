@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 221
                 },
                 "from": {
-                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 280
                 },
                 "from": {
-                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 335
                 },
                 "from": {
-                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -107,7 +107,7 @@
                     "endOffset": 612
                 },
                 "from": {
-                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "outputFile": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -132,7 +132,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -151,7 +151,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -170,7 +170,7 @@
                     "endOffset": 221
                 },
                 "from": {
-                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -189,7 +189,7 @@
                     "endOffset": 280
                 },
                 "from": {
-                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -208,7 +208,7 @@
                     "endOffset": 335
                 },
                 "from": {
-                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -228,7 +228,128 @@
                     "endOffset": 612
                 },
                 "from": {
-                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 51,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 51,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 57,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 57,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 58,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 58,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 54,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 54,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endLine": 11,
+                    "endColumn": 13,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

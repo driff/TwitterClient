@@ -19,7 +19,7 @@ import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.hashtags.HashtagsPresenter;
 import com.driff.android.twitterclient.hashtags.di.HashtagsComponent;
 import com.driff.android.twitterclient.hashtags.ui.adapters.HashtagsAdapter;
-import com.driff.android.twitterclient.tweet.ui.TweetActivity;
+import com.driff.android.twitterclient.popups.TweetActivity;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
 
 import java.util.List;

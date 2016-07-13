@@ -58,6 +58,7 @@
     <string name="dgts__verification_code">[[94019]] Verification code</string>
     <string name="dgts_pin_code_terms">[[94015]] You have previously set a 2-step verification code on digits.com</string>
     <string name="tw__allow_btn_txt">[[94023]] Allow</string>
+    <string name="tw__cta_text">[[154764]] Open in Vine</string>
     <string name="tw__like_tweet">[[141901]] Like Tweet</string>
     <string name="tw__liked_tweet">[[141902]] Undo Like</string>
     <string name="tw__loading_tweet">[[60974]] Loading Tweet</string>

@@ -7,5 +7,6 @@
 /build
 /captures
 libs/
-src/main/res/drawable/
 *.properties
+/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml
+/app/build/

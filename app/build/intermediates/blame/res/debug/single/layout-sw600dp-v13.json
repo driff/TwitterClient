@@ -1,10 +1,14 @@
 [
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

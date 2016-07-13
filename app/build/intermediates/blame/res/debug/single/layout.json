@@ -1,622 +1,938 @@
 [
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_hashtags.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_hashtags.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__app_card.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__tweet_compact.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__state_button.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__state_button.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__action_bar.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__composer_view.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/res/layout/tw__composer_view.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__state_button.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__state_button.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\layout\\tw__activity_share_email.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_tweet.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_tweet.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_hashtag_text.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\row_hashtag_text.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__media_badge.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\layout\\tw__media_badge.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__app_card.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/res/layout/tw__app_card.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__player_activity.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_hashtags.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_hashtags.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_timeline.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_timeline.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__gallery_activity.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__gallery_activity.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_confirmation.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_confirmation.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_hashtag_text.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\row_hashtag_text.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_phone_number.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_phone_number.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\layout\\tw__tweet.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_pin_code.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_pin_code.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/content_hashtags.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/content_hashtags.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__country_row.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__country_row.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__gallery_activity.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__gallery_activity.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__tweet_compact.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__tweet_compact.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__media_badge.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__media_badge.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/fragment_tweet_create.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/fragment_tweet_create.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__media_badge.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__media_badge.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__player_activity.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__player_activity.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\layout\\tw__activity_oauth.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__country_row.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.1\\res\\layout\\dgts__country_row.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_failure.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_failure.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_failure.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.1\\res\\layout\\dgts__activity_failure.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\layout\\tw__action_bar.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_pin_code.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.1\\res\\layout\\dgts__activity_pin_code.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_hashtags.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_hashtags.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\fragment_content.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tweet.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_tweet.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/content_home.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/content_home.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__tweet.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__tweet.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/row_hashtag_text.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/row_hashtag_text.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__media_badge.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__media_badge.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_hashtag_text.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\row_hashtag_text.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__activity_share_email.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/layout/tw__activity_share_email.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__video_control.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__video_control.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_images.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_images.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__tweet.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_timeline.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_timeline.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_contacts.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_contacts.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_confirmation.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_confirmation.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_confirmation.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_confirmation.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_contacts.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_contacts.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__state_button.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.1\\res\\layout\\dgts__state_button.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_contacts.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.1\\res\\layout\\dgts__activity_contacts.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__activity_composer.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_failure.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_failure.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__activity_oauth.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/layout/tw__activity_oauth.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/activity_tweet.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/activity_tweet.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__action_bar.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__action_bar.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\fragment_content.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__country_row.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__country_row.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_tweet.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_tweet.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\layout\\tw__activity_share_email.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__video_control.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__video_control.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/fragment_content.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/fragment_content.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\layout\\tw__activity_oauth.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tweet.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_tweet.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__state_button.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__state_button.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_pin_code.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_pin_code.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_failure.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_failure.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__activity_composer.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__action_bar.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__player_activity.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__player_activity.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_contacts.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_contacts.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_images.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_images.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__player_activity.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/content_images.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/content_images.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\layout\\tw__activity_share_email.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__video_control.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__video_control.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__composer_view.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__composer_view.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\layout\\tw__player_activity.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/content_home.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/content_home.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__activity_share_email.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/layout/tw__activity_share_email.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__tweet.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_phone_number.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_phone_number.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__state_button.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__state_button.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_failure.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_failure.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\layout\\tw__tweet_compact.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__video_control.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__video_control.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_phone_number.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_phone_number.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__gallery_activity.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__gallery_activity.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__app_card.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/activity_tweet.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/activity_tweet.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_confirmation.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.1\\res\\layout\\dgts__activity_confirmation.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__app_card.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__country_row.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__country_row.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_pin_code.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_pin_code.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__media_badge.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__media_badge.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\layout\\tw__tweet_compact.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__tweet.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__tweet.xml"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/fragment_tweet_create.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/fragment_tweet_create.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_contacts.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tweet.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_tweet.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/row_hashtag_text.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/row_hashtag_text.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\layout\\tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/content_hashtags.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/layout/content_hashtags.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__composer_view.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__tweet_compact.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_images.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_images.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__action_bar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__action_bar.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__composer_view.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/res/layout/tw__composer_view.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_home.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_pin_code.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_pin_code.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__country_row.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__country_row.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_confirmation.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/fragment_content.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/fragment_content.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__activity_composer.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__activity_composer.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_content.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\fragment_content.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__app_card.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.5/res/layout/tw__app_card.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__video_control.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\layout\\tw__video_control.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__gallery_activity.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\layout\\tw__gallery_activity.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/content_images.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/layout/content_images.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.5\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_phone_number.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.11.1\\res\\layout\\dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/dgts__activity_phone_number.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.11.1/res/layout/dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__gallery_activity.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/layout/tw__gallery_activity.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/tw__activity_oauth.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tweet_create.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\layout\\fragment_tweet_create.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_menu_item_action_area.xml"
     }
 ]

@@ -1,10 +1,14 @@
 [
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

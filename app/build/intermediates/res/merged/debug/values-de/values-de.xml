@@ -56,7 +56,7 @@
     <string name="dgts__phone_number_edit_hint">Deine Nummer</string>
     <string name="dgts__phone_number_text">Deine Telefonnummer eingeben</string>
     <string name="dgts__pin_code_verification_title">2-Schritt-Bestätigungscode eingeben</string>
-    <string name="dgts__resend_confirmation_button_code">Code erneut senden</string>
+    <string name="dgts__resend_confirmation_button_code">Erneut senden</string>
     <string name="dgts__resend_confirmation_text">Bestätigungscode erneut senden</string>
     <string name="dgts__send_confirmation_code">Bestätigungscode senden</string>
     <string name="dgts__sending">Sendet…</string>
@@ -100,6 +100,7 @@ anhand Deiner Telefonnummer und/oder E-Mail Adresse finden können.</string>
     <string name="dgts_pin_code_terms">Du hast zuvor einen 2-Schritte-Verifizierungscode auf digits.com eingestellt</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="tw__allow_btn_txt">Erlauben</string>
+    <string name="tw__cta_text">In Vine öffnen</string>
     <string name="tw__like_tweet">Tweet gefällt mir</string>
     <string name="tw__liked_tweet">Gefällt mir nicht mehr</string>
     <string name="tw__loading_tweet">Tweet wird geladen</string>

@@ -31,7 +31,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
-    <string name="dgts__call_me">Καλέστε με</string>
+    <string name="dgts__call_me">Κλήση</string>
     <string name="dgts__calling">Κλήση…</string>
     <string name="dgts__confirmation_code">Κωδικός επιβεβαίωσης</string>
     <string name="dgts__confirmation_edit_hint">Εισαγάγετε τον εξαψήφιο κωδικό που σας στείλαμε</string>
@@ -56,7 +56,8 @@
     <string name="dgts__phone_number_edit_hint">O αριθμός σας</string>
     <string name="dgts__phone_number_text">Εισαγάγετε τον αριθμό τηλεφώνου σας</string>
     <string name="dgts__pin_code_verification_title">Εισαγωγή κωδικού επαλήθευσης 2 βημάτων</string>
-    <string name="dgts__resend_confirmation_button_code">Εκ νέου αποστολή κωδικού</string>
+    <string name="dgts__resend_confirmation_button_code">Νέα\
+αποστολή</string>
     <string name="dgts__resend_confirmation_text">Εκ νέου αποστολή κωδικού επιβεβαίωσης</string>
     <string name="dgts__send_confirmation_code">Αποστολή κωδικού επιβεβαίωσης</string>
     <string name="dgts__sending">Αποστολή…</string>
@@ -78,6 +79,7 @@
     <string name="dgts_pin_code_terms">Ορίσατε προηγουμένως κωδικό επαλήθευσης 2 βημάτων στο digits.com</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="tw__allow_btn_txt">Να επιτρέπεται</string>
+    <string name="tw__cta_text">Άνοιγμα στην εφαρμογή Vine</string>
     <string name="tw__like_tweet">Μου αρέσει αυτό το Tweet</string>
     <string name="tw__liked_tweet">Αναίρεση επιλογής \"Μου αρέσει\"</string>
     <string name="tw__loading_tweet">Φόρτωση Tweet</string>

@@ -37,8 +37,9 @@
     <color name="colorAccent">#E91E63</color>
     <color name="colorFontDark">#FFFFFF</color>
     <color name="colorFontLight">#000000</color>
-    <color name="colorPrimary">#00838F</color>
+    <color name="colorPrimary">#00838f</color>
     <color name="colorPrimaryDark">#006064</color>
+    <color name="colorPrimaryLight">#B2EBF2</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
     <color name="design_fab_shadow_start_color">#44000000</color>
@@ -105,6 +106,8 @@
     <color name="tw__composer_light_gray">#ffccd6dd</color>
     <color name="tw__composer_red">#ffe81c4f</color>
     <color name="tw__composer_white">#ffffffff</color>
+    <color name="tw__cta_border_color">@android:color/white</color>
+    <color name="tw__cta_text_color">@android:color/white</color>
     <color name="tw__light_gray">#ccd6dd</color>
     <color name="tw__medium_gray">#8899a6</color>
     <color name="tw__seekbar_thumb_inner_color">#ffffffff</color>
@@ -248,6 +251,7 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="appbar_padding_top">8dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_content_padding_small">4dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
@@ -302,6 +306,8 @@
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
+    <dimen name="timeline_button_size">42dp</dimen>
+    <dimen name="tw__badge_padding">4dp</dimen>
     <dimen name="tw__btn_bar_margin_left">8dp</dimen>
     <dimen name="tw__btn_bar_margin_right">8dp</dimen>
     <dimen name="tw__card_font_size_medium">18sp</dimen>
@@ -349,7 +355,10 @@
     <dimen name="tw__composer_spacing_small">4dp</dimen>
     <dimen name="tw__composer_tweet_btn_height">36dp</dimen>
     <dimen name="tw__composer_tweet_btn_radius">4dp</dimen>
-    <dimen name="tw__gif_badge_padding">4dp</dimen>
+    <dimen name="tw__cta_border_size">1dp</dimen>
+    <dimen name="tw__cta_margin_top">12dp</dimen>
+    <dimen name="tw__cta_padding">8dp</dimen>
+    <dimen name="tw__cta_radius">14dp</dimen>
     <dimen name="tw__login_btn_drawable_padding">4dp</dimen>
     <dimen name="tw__login_btn_height">32dp</dimen>
     <dimen name="tw__login_btn_left_padding">8dp</dimen>
@@ -398,6 +407,7 @@
     <dimen name="tw__tweet_verified_margin_bottom">3dp</dimen>
     <dimen name="tw__video_control_height">32dp</dimen>
     <dimen name="tw__video_control_text_size">13sp</dimen>
+    <dimen name="tweet_create_input_height">120dp</dimen>
     <dimen name="tweet_reply_img_margin">64dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -464,7 +474,7 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">eaea1aa3-bcc6-47d2-9d57-6e99345ce20c</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">51f3970b-7f45-4691-b07e-6b906f2d0cef</string>
     <string name="dgts__call_me">Call me</string>
     <string name="dgts__calling">Calling…</string>
     <string name="dgts__confirmation_code">Confirmation code</string>
@@ -524,6 +534,7 @@
     <string name="kit_name">Twitter</string>
     <string name="login.error.message">Imposible iniciar sesion %s</string>
     <string name="main.header.hashtags">Hashtags</string>
+    <string name="main.header.home">Home</string>
     <string name="main.header.images">Imagenes</string>
     <string name="main.menu.action.logout">Cerrar Sesion</string>
     <string name="main.toolbar.title">User:</string>
@@ -531,7 +542,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tw__allow_btn_txt">Allow</string>
     <string name="tw__composer_hint">What\'s Happening?</string>
-    <string name="tw__cta_text" ns1:ignore="UnusedResources">Open in Vine</string>
+    <string name="tw__cta_text">Open in Vine</string>
     <string name="tw__install">Install</string>
     <string name="tw__like_tweet">Like Tweet</string>
     <string name="tw__liked_tweet">Undo Like</string>
@@ -553,6 +564,10 @@
     <string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string>
     <string name="tw__share_tweet">Share Tweet</string>
     <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="tweet.share.source"> src: </string>
+    <string name="tweet.share.subject">Tweet from </string>
+    <string name="tweet_create_input_hint">What\'s on your mind?</string>
+    <string name="tweet_create_send">Send Tweet</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -2101,9 +2116,6 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_gravity">center</item>
         <item name="android:visibility">gone</item>
-    </style>
-    <style name="tw__Badge.Gif">
-        <item name="android:src">@drawable/tw__gif_badge</item>
     </style>
     <style name="tw__Badge.VideoDuration">
         <item name="android:background">@drawable/tw__bg_media_badge</item>

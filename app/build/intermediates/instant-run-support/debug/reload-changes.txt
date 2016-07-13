@@ -1,7 +1,0 @@
-CHANGED,G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\driff\android\twitterclient\images\ImagesRepositoryImpl$override.class
-CHANGED,G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\driff\android\twitterclient\hashtags\HashtagsRepositoryImpl$1$override.class
-CHANGED,G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\driff\android\twitterclient\hashtags\HashtagsRepositoryImpl$1$1$override.class
-CHANGED,G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\driff\android\twitterclient\images\ImagesPresenterImpl$override.class
-CHANGED,G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\driff\android\twitterclient\hashtags\HashtagsPresenterImpl$override.class
-CHANGED,G:\Coding\AndroidStudio\TwitterClient\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\driff\android\twitterclient\hashtags\HashtagsRepositoryImpl$override.class

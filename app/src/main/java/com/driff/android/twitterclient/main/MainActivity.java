@@ -13,9 +13,9 @@ import android.view.MenuItem;
 import com.driff.android.twitterclient.LoginActivity;
 import com.driff.android.twitterclient.R;
 import com.driff.android.twitterclient.hashtags.ui.HashtagsFragment;
+import com.driff.android.twitterclient.home.ui.HomeFragment;
 import com.driff.android.twitterclient.images.ui.ImagesFragment;
 import com.driff.android.twitterclient.main.ui.adapters.MainSectionsPagerAdapter;
-import com.driff.android.twitterclient.timelines.ui.TimelineFragment;
 import com.twitter.sdk.android.Twitter;
 
 import butterknife.Bind;
@@ -36,14 +36,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
         String usrName = Twitter.getSessionManager().getActiveSession().getUserName();
-        setTitle(getString(R.string.main_toolbar_title)+" @"+(usrName != null?usrName:"null"));
+        setTitle(getString(R.string.main_toolbar_title) + " @" + usrName);
         setSupportActionBar(toolbar);
         setupAdapter();
     }
 
     private void setupAdapter() {
-        Fragment[] fragments = new Fragment[]{new ImagesFragment(), new HashtagsFragment(), new TimelineFragment()};
-        String[] titles= new String[]{getString(R.string.main_header_images), getString(R.string.main_header_hashtags)};
+        Fragment[] fragments = new Fragment[]{new HomeFragment(), new ImagesFragment(), new HashtagsFragment()};
+        String[] titles = new String[]{getString(R.string.main_header_home), getString(R.string.main_header_images), getString(R.string.main_header_hashtags)};
         MainSectionsPagerAdapter adapter = new MainSectionsPagerAdapter(getSupportFragmentManager(), titles, fragments);
         viewPager.setAdapter(adapter);
         tabs.setupWithViewPager(viewPager);

@@ -14,6 +14,7 @@ import java.util.List;
  */
 @Table(database = TweetDatabase.class)
 public class MyTweet extends BaseModel{
+    private final static String BASE_TWEET_URL = "https://twitter.com/null/status/";
     @SerializedName("id")
     @PrimaryKey private String id;
     @Column private String tweetText;
@@ -24,11 +25,10 @@ public class MyTweet extends BaseModel{
     @Column private int favoriteCount;
     @Column private int retweetCount;
     @Column private boolean retweeted;
-    @Column private boolean liked;
+    @Column
+    private boolean favorite;
     private List<String> hashtags;
     private List<String> mentions;
-
-    private final static String BASE_TWEET_URL = "https://twitter.com/null/status/";
 
     public String getId() {
         return id;
@@ -74,6 +74,10 @@ public class MyTweet extends BaseModel{
         return favoriteCount;
     }
 
+    public void setFavoriteCount(int favoriteCount) {
+        this.favoriteCount = favoriteCount;
+    }
+
     public String getTweetUrl(){
         return BASE_TWEET_URL + this.id;
     }
@@ -94,12 +98,12 @@ public class MyTweet extends BaseModel{
         this.retweeted = retweeted;
     }
 
-    public boolean isLiked() {
-        return liked;
+    public boolean isFavorite() {
+        return favorite;
     }
 
-    public void setLiked(boolean liked) {
-        this.liked = liked;
+    public void setFavorite(boolean favorite) {
+        this.favorite = favorite;
     }
 
     public List<String> getHashtags() {
@@ -116,10 +120,6 @@ public class MyTweet extends BaseModel{
 
     public void setMentions(List<String> mentions) {
         this.mentions = mentions;
-    }
-
-    public void setFavoriteCount(int favoriteCount) {
-        this.favoriteCount = favoriteCount;
     }
 
     @Override
@@ -149,7 +149,7 @@ public class MyTweet extends BaseModel{
     @Override
     public String toString() {
         return "MyTweet{" +
-                "liked=" + liked +
+                "favorite=" + favorite +
                 ", retweeted=" + retweeted +
                 ", retweetCount=" + retweetCount +
                 ", favoriteCount=" + favoriteCount +

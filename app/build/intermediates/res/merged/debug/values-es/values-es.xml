@@ -31,7 +31,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
-    <string name="dgts__call_me">Llámame</string>
+    <string name="dgts__call_me">Llamarme</string>
     <string name="dgts__calling">Llamando…</string>
     <string name="dgts__confirmation_code">Código de confirmación</string>
     <string name="dgts__confirmation_edit_hint">Ingresa el código de 6 dígitos que te enviamos</string>
@@ -56,7 +56,7 @@
     <string name="dgts__phone_number_edit_hint">Tu número</string>
     <string name="dgts__phone_number_text">Introduce tu número de teléfono</string>
     <string name="dgts__pin_code_verification_title">Ingresa el código de doble verificación</string>
-    <string name="dgts__resend_confirmation_button_code">Reenviar código</string>
+    <string name="dgts__resend_confirmation_button_code">Reenviar</string>
     <string name="dgts__resend_confirmation_text">Reenviar código de confirmación</string>
     <string name="dgts__send_confirmation_code">Enviar código de confirmación</string>
     <string name="dgts__sending">Enviando…</string>

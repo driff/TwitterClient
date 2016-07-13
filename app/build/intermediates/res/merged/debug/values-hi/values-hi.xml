@@ -31,7 +31,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
-    <string name="dgts__call_me">मुझे कॉल करें</string>
+    <string name="dgts__call_me">कॉल करें</string>
     <string name="dgts__calling">कॉल किया जा रहा है…</string>
     <string name="dgts__confirmation_code">पुष्टिकरण कोड</string>
     <string name="dgts__confirmation_edit_hint">हमारे द्वारा आपको भेजा गया 6 अंको का कोड दर्ज करें</string>
@@ -56,7 +56,7 @@
     <string name="dgts__phone_number_edit_hint">आपका नंबर</string>
     <string name="dgts__phone_number_text">अपना फ़ोन नंबर दर्ज करें</string>
     <string name="dgts__pin_code_verification_title">2-चरणीय सत्यापन कोड दर्ज करें</string>
-    <string name="dgts__resend_confirmation_button_code">कोड फिर से भेजें</string>
+    <string name="dgts__resend_confirmation_button_code">कोड पुनः भेजें</string>
     <string name="dgts__resend_confirmation_text">पुष्टिकरण कोड पुन: भेजें</string>
     <string name="dgts__send_confirmation_code">पुष्टिकरण कोड भेजें</string>
     <string name="dgts__sending">भेजा जा रहा है…</string>

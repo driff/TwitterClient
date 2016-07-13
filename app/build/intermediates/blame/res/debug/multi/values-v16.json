@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
+        "outputFile": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 305
                 },
                 "from": {
-                    "file": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-v16\\values-v16.xml",
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.11.1\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
+        "outputFile": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/values-v16/values-v16.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,33 @@
                     "endOffset": 305
                 },
                 "from": {
-                    "file": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.3\\res\\values-v16\\values-v16.xml",
+                    "file": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 305
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.11.1/res/values-v16/values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

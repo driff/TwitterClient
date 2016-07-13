@@ -56,7 +56,7 @@
     <string name="dgts__phone_number_edit_hint">El teu número</string>
     <string name="dgts__phone_number_text">Introdueix el número de telèfon</string>
     <string name="dgts__pin_code_verification_title">Introdueix el codi de verificació en 2 passos</string>
-    <string name="dgts__resend_confirmation_button_code">Torna a enviar el codi</string>
+    <string name="dgts__resend_confirmation_button_code">Reenvia codi</string>
     <string name="dgts__resend_confirmation_text">Torna a enviar el codi de confirmació</string>
     <string name="dgts__send_confirmation_code">Envia el codi de confirmació</string>
     <string name="dgts__sending">S\'està enviant…</string>
@@ -78,6 +78,7 @@
     <string name="dgts_pin_code_terms">Has configurat prèviament un codi de verificació en 2 passos a digits.com</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
     <string name="tw__allow_btn_txt">Permet-ho</string>
+    <string name="tw__cta_text">Obre\'l al Vine</string>
     <string name="tw__like_tweet">Fes M\'agrada al tuit</string>
     <string name="tw__liked_tweet">Desfés el M\'agrada</string>
     <string name="tw__loading_tweet">S\'està carregant el tuit</string>

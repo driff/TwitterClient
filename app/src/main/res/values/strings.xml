@@ -3,9 +3,13 @@
     <string name="login.error.message">Imposible iniciar sesion %s</string>
     <string name="main.header.images">Imagenes</string>
     <string name="main.header.hashtags">Hashtags</string>
+    <string name="main.header.home">Home</string>
     <string name="main.menu.action.logout">Cerrar Sesion</string>
     <string name="main.toolbar.title">User:</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tweet.share.subject">Tweet from </string>
+    <string name="tweet.share.source"> src: </string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="reply_message">Reply not implemented</string>
+    <string name="tweet_create_send">Send Tweet</string>
+    <string name="tweet_create_input_hint">What\'s on your mind?</string>
 </resources>

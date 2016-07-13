@@ -8,12 +8,12 @@ import butterknife.ButterKnife.ViewBinder;
 public class ImagesFragment$$ViewBinder<T extends com.driff.android.twitterclient.images.ui.ImagesFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131624100, "field 'progressBar'");
-    target.progressBar = finder.castView(view, 2131624100, "field 'progressBar'");
-    view = finder.findRequiredView(source, 2131624056, "field 'recyclerView'");
-    target.recyclerView = finder.castView(view, 2131624056, "field 'recyclerView'");
-    view = finder.findRequiredView(source, 2131624043, "field 'container'");
-    target.container = finder.castView(view, 2131624043, "field 'container'");
+    view = finder.findRequiredView(source, 2131624101, "field 'progressBar'");
+    target.progressBar = finder.castView(view, 2131624101, "field 'progressBar'");
+    view = finder.findRequiredView(source, 2131624059, "field 'recyclerView'");
+    target.recyclerView = finder.castView(view, 2131624059, "field 'recyclerView'");
+    view = finder.findRequiredView(source, 2131624046, "field 'container'");
+    target.container = finder.castView(view, 2131624046, "field 'container'");
   }
 
   @Override public void unbind(T target) {

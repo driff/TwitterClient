@@ -1,6 +1,6 @@
 package com.driff.android.twitterclient.hashtags.di;
 
-import com.driff.android.twitterclient.entities.Hashtag;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.hashtags.ui.adapters.HashtagsAdapter;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
 import dagger.internal.Factory;
@@ -11,10 +11,10 @@ import javax.inject.Provider;
 @Generated("dagger.internal.codegen.ComponentProcessor")
 public final class HashtagsModule_ProvidesAdapterFactory implements Factory<HashtagsAdapter> {
   private final HashtagsModule module;
-  private final Provider<List<Hashtag>> datasetProvider;
-  private final Provider<OnItemClickListener<Hashtag>> clickListenerProvider;
+  private final Provider<List<MyTweet>> datasetProvider;
+  private final Provider<OnItemClickListener<MyTweet>> clickListenerProvider;
 
-  public HashtagsModule_ProvidesAdapterFactory(HashtagsModule module, Provider<List<Hashtag>> datasetProvider, Provider<OnItemClickListener<Hashtag>> clickListenerProvider) {  
+  public HashtagsModule_ProvidesAdapterFactory(HashtagsModule module, Provider<List<MyTweet>> datasetProvider, Provider<OnItemClickListener<MyTweet>> clickListenerProvider) {  
     assert module != null;
     this.module = module;
     assert datasetProvider != null;
@@ -32,7 +32,7 @@ public final class HashtagsModule_ProvidesAdapterFactory implements Factory<Hash
     return provided;
   }
 
-  public static Factory<HashtagsAdapter> create(HashtagsModule module, Provider<List<Hashtag>> datasetProvider, Provider<OnItemClickListener<Hashtag>> clickListenerProvider) {  
+  public static Factory<HashtagsAdapter> create(HashtagsModule module, Provider<List<MyTweet>> datasetProvider, Provider<OnItemClickListener<MyTweet>> clickListenerProvider) {  
     return new HashtagsModule_ProvidesAdapterFactory(module, datasetProvider, clickListenerProvider);
   }
 }

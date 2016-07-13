@@ -4,41 +4,41 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:theme="@style/AppTheme.NoActionBar"
-    cardview:cardUseCompatPadding="true"
-    cardview:contentPadding="@dimen/dgts__padding_title"
     cardview:cardCornerRadius="6dp"
-    cardview:cardElevation="@dimen/cardview_default_elevation">
+    cardview:cardElevation="@dimen/cardview_default_elevation"
+    cardview:cardUseCompatPadding="true"
+    cardview:contentPadding="@dimen/dgts__padding_title">
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="@dimen/activity_horizontal_margin">
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:textAppearanceSmall"
             android:id="@+id/txtUser"
-            android:layout_marginTop="@dimen/activity_horizontal_margin"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"/>
-        <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:id="@+id/txtTweet"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:textAppearance="?android:textAppearanceSmall" />
+        <TextView
+            android:id="@+id/txtTweet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:layout_below="@+id/txtUser"
-            android:layout_centerHorizontal="true"/>
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:textAppearance="?android:textAppearanceMedium" />
         <android.support.v7.widget.RecyclerView
             android:id="@+id/recyclerView"
-            android:layout_marginBottom="@dimen/activity_horizontal_margin"
-            android:layout_marginLeft="@dimen/activity_horizontal_margin"
-            android:layout_marginRight="@dimen/activity_horizontal_margin"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_below="@+id/txtTweet"/>
+            android:layout_below="@+id/txtTweet"
+            android:layout_marginBottom="@dimen/activity_horizontal_margin"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin" />
 
     </RelativeLayout>
 </android.support.v7.widget.CardView>

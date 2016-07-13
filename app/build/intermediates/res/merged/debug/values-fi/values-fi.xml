@@ -31,7 +31,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
-    <string name="dgts__call_me">Soita minulle</string>
+    <string name="dgts__call_me">Soita</string>
     <string name="dgts__calling">Soitetaan…</string>
     <string name="dgts__confirmation_code">Vahvistuskoodi</string>
     <string name="dgts__confirmation_edit_hint">Syötä kuusinumeroinen koodi jonka lähetimme sinulle</string>
@@ -56,7 +56,7 @@
     <string name="dgts__phone_number_edit_hint">Numerosi</string>
     <string name="dgts__phone_number_text">Anna puhelinnumerosi</string>
     <string name="dgts__pin_code_verification_title">Syötä kaksivaiheinen varmennuskoodi</string>
-    <string name="dgts__resend_confirmation_button_code">Lähetä koodi uudelleen</string>
+    <string name="dgts__resend_confirmation_button_code">Lähetä koodi</string>
     <string name="dgts__resend_confirmation_text">Lähetä vahvistuskoodi</string>
     <string name="dgts__send_confirmation_code">Lähetä vahvistuskoodi</string>
     <string name="dgts__sending">Lähetetään…</string>
@@ -78,6 +78,7 @@
     <string name="dgts_pin_code_terms">Olet aiemmin asettanut kaksivaiheisen varmennuskoodin osoitteessa digits.com</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="tw__allow_btn_txt">Salli</string>
+    <string name="tw__cta_text">Avaa Vinessä</string>
     <string name="tw__like_tweet">Tykkää twiitistä</string>
     <string name="tw__liked_tweet">Kumoa tykkäys</string>
     <string name="tw__loading_tweet">Ladataan twiittiä</string>

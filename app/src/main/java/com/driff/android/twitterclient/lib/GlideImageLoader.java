@@ -21,6 +21,6 @@ public class GlideImageLoader implements ImageLoader {
     public void load(ImageView imgView, String URL) {
         glideRequestManager.load(URL)
                 .diskCacheStrategy(DiskCacheStrategy.ALL).centerCrop()
-                .override(600,400).into(imgView);
+                .override(800, 500).into(imgView);
     }
 }

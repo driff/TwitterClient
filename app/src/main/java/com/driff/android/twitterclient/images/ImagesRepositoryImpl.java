@@ -30,9 +30,9 @@ import static com.driff.android.twitterclient.utils.TweetUtils.containsUserName;
  */
 public class ImagesRepositoryImpl implements ImagesRepository {
 
+    private final static int TWEET_COUNT = 100;
     private EventBus eventBus;
     private CustomTwitterApiClient client;
-    private final static int TWEET_COUNT = 100;
     private List<MyTweet> tweets;
 
     public ImagesRepositoryImpl(EventBus eventBus, CustomTwitterApiClient client) {

@@ -78,6 +78,7 @@
     <string name="dgts_pin_code_terms">Precedentemente hai impostato un codice di verifica in 2 passaggi su digits.com</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
     <string name="tw__allow_btn_txt">Consenti</string>
+    <string name="tw__cta_text">Apri con Vine</string>
     <string name="tw__like_tweet">Metti Mi Piace al Tweet</string>
     <string name="tw__liked_tweet">Non mi piace più</string>
     <string name="tw__loading_tweet">Caricamento del Tweet in corso</string>

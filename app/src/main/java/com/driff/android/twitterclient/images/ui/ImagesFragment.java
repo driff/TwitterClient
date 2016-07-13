@@ -18,7 +18,7 @@ import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.images.ImagesPresenter;
 import com.driff.android.twitterclient.images.di.ImagesComponent;
 import com.driff.android.twitterclient.images.ui.adapters.ImagesAdapter;
-import com.driff.android.twitterclient.tweet.ui.TweetActivity;
+import com.driff.android.twitterclient.popups.TweetActivity;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
 
 import java.util.List;
@@ -87,8 +87,8 @@ public class ImagesFragment extends Fragment implements ImagesView, OnItemClickL
 
     @Override
     public void onDestroy() {
-        presenter.onDestroy();
         super.onDestroy();
+        presenter.onDestroy();
     }
 
     @Override
@@ -122,10 +122,10 @@ public class ImagesFragment extends Fragment implements ImagesView, OnItemClickL
     }
 
     @Override
-    public void onItemClick(MyTweet image) {
+    public void onItemClick(MyTweet tweet) {
         /*Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(image.getTweetUrl()));*/
         Intent i = new Intent(getContext(), TweetActivity.class);
-        i.putExtra(TweetActivity.TWEET_KEY, image.getId());
+        i.putExtra(TweetActivity.TWEET_KEY, tweet.getId());
         startActivity(i);
     }
 

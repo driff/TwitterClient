@@ -6,4 +6,6 @@
     <dimen name="tweet_reply_img_margin">64dp</dimen>
     <dimen name="hashtag_padding">4dp</dimen>
     <dimen name="timeline_button_size">42dp</dimen>
+    <dimen name="cardview_content_padding_small">4dp</dimen>
+    <dimen name="tweet_create_input_height">120dp</dimen>
 </resources>

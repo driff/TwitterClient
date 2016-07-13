@@ -12,9 +12,7 @@ import android.view.ViewGroup;
  */
 public class CustomGridLayoutManager extends GridLayoutManager {
 
-    public CustomGridLayoutManager(Context context, int spanCount) {
-        super(context, spanCount);
-    }
+    private int[] mMeasuredDimension = new int[2];
 
     /*
     public CustomLinearLayoutManager(Context context, int orientation, boolean reverseLayout)    {
@@ -22,7 +20,9 @@ public class CustomGridLayoutManager extends GridLayoutManager {
     }
     */
 
-    private int[] mMeasuredDimension = new int[2];
+    public CustomGridLayoutManager(Context context, int spanCount) {
+        super(context, spanCount);
+    }
 
     @Override
     public void onMeasure(RecyclerView.Recycler recycler, RecyclerView.State state,

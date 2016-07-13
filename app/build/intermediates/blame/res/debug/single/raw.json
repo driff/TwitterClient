@@ -1,10 +1,14 @@
 [
     {
-        "merged": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tw__cacerts",
-        "source": "D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\raw\\tw__cacerts"
+        "merged": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/res/merged/debug/raw/tw__cacerts",
+        "source": "/home/johan/Documents/StudioProjects/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/raw/tw__cacerts"
     },
     {
-        "merged": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tw__cacerts",
-        "source": "G:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.8\\res\\raw\\tw__cacerts"
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/res/merged/debug/raw/tw__cacerts",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.7.0/res/raw/tw__cacerts"
+    },
+    {
+        "merged": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tw__cacerts",
+        "source": "/media/johan/MyPassport/Coding/AndroidStudio/TwitterClient/D:\\Coding\\AndroidStudio\\TwitterClient\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.7.0\\res\\raw\\tw__cacerts"
     }
 ]

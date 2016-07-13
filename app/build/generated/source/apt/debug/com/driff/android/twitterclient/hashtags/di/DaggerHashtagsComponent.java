@@ -1,7 +1,7 @@
 package com.driff.android.twitterclient.hashtags.di;
 
 import com.driff.android.twitterclient.api.CustomTwitterApiClient;
-import com.driff.android.twitterclient.entities.Hashtag;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.hashtags.HashtagsInteractor;
 import com.driff.android.twitterclient.hashtags.HashtagsPresenter;
 import com.driff.android.twitterclient.hashtags.HashtagsRepository;
@@ -24,8 +24,8 @@ import javax.inject.Provider;
 
 @Generated("dagger.internal.codegen.ComponentProcessor")
 public final class DaggerHashtagsComponent implements HashtagsComponent {
-  private Provider<List<Hashtag>> providesItemsListProvider;
-  private Provider<OnItemClickListener<Hashtag>> providesOnItemClickListenerProvider;
+  private Provider<List<MyTweet>> providesItemsListProvider;
+  private Provider<OnItemClickListener<MyTweet>> providesOnItemClickListenerProvider;
   private Provider<HashtagsAdapter> providesAdapterProvider;
   private Provider<org.greenrobot.eventbus.EventBus> providesLibraryEventBusProvider;
   private Provider<EventBus> providesEventBusProvider;

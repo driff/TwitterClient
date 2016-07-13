@@ -1,6 +1,6 @@
 package com.driff.android.twitterclient.images.di;
 
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.images.ui.adapters.ImagesAdapter;
 import com.driff.android.twitterclient.lib.base.ImageLoader;
 import com.driff.android.twitterclient.utils.OnItemClickListener;
@@ -12,11 +12,11 @@ import javax.inject.Provider;
 @Generated("dagger.internal.codegen.ComponentProcessor")
 public final class ImagesModule_ProvidesAdapterFactory implements Factory<ImagesAdapter> {
   private final ImagesModule module;
-  private final Provider<List<Image>> datasetProvider;
+  private final Provider<List<MyTweet>> datasetProvider;
   private final Provider<ImageLoader> imageLoaderProvider;
-  private final Provider<OnItemClickListener<Image>> clickListenerProvider;
+  private final Provider<OnItemClickListener<MyTweet>> clickListenerProvider;
 
-  public ImagesModule_ProvidesAdapterFactory(ImagesModule module, Provider<List<Image>> datasetProvider, Provider<ImageLoader> imageLoaderProvider, Provider<OnItemClickListener<Image>> clickListenerProvider) {  
+  public ImagesModule_ProvidesAdapterFactory(ImagesModule module, Provider<List<MyTweet>> datasetProvider, Provider<ImageLoader> imageLoaderProvider, Provider<OnItemClickListener<MyTweet>> clickListenerProvider) {  
     assert module != null;
     this.module = module;
     assert datasetProvider != null;
@@ -36,7 +36,7 @@ public final class ImagesModule_ProvidesAdapterFactory implements Factory<Images
     return provided;
   }
 
-  public static Factory<ImagesAdapter> create(ImagesModule module, Provider<List<Image>> datasetProvider, Provider<ImageLoader> imageLoaderProvider, Provider<OnItemClickListener<Image>> clickListenerProvider) {  
+  public static Factory<ImagesAdapter> create(ImagesModule module, Provider<List<MyTweet>> datasetProvider, Provider<ImageLoader> imageLoaderProvider, Provider<OnItemClickListener<MyTweet>> clickListenerProvider) {  
     return new ImagesModule_ProvidesAdapterFactory(module, datasetProvider, imageLoaderProvider, clickListenerProvider);
   }
 }

@@ -31,7 +31,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
-    <string name="dgts__call_me">Gọi cho tôi</string>
+    <string name="dgts__call_me">Gọi tôi</string>
     <string name="dgts__calling">Đang gọi…</string>
     <string name="dgts__confirmation_code">Mã xác nhận</string>
     <string name="dgts__confirmation_edit_hint">Nhập mã 6 chữ số chúng tôi đã gửi bạn</string>

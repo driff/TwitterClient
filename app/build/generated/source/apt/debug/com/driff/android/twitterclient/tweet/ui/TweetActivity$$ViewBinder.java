@@ -2,16 +2,19 @@
 package com.driff.android.twitterclient.tweet.ui;
 
 import android.view.View;
+
+import com.driff.android.twitterclient.popups.TweetActivity;
+
 import butterknife.ButterKnife.Finder;
 import butterknife.ButterKnife.ViewBinder;
 
-public class TweetActivity$$ViewBinder<T extends com.driff.android.twitterclient.tweet.ui.TweetActivity> implements ViewBinder<T> {
+public class TweetActivity$$ViewBinder<T extends TweetActivity> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131624049, "field 'txtUser'");
-    target.txtUser = finder.castView(view, 2131624049, "field 'txtUser'");
-    view = finder.findRequiredView(source, 2131624050, "field 'imgTweet' and method 'onClick'");
-    target.imgTweet = finder.castView(view, 2131624050, "field 'imgTweet'");
+    view = finder.findRequiredView(source, 2131624052, "field 'txtUser'");
+    target.txtUser = finder.castView(view, 2131624052, "field 'txtUser'");
+    view = finder.findRequiredView(source, 2131624053, "field 'imgTweet' and method 'onClick'");
+    target.imgTweet = finder.castView(view, 2131624053, "field 'imgTweet'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -20,10 +23,10 @@ public class TweetActivity$$ViewBinder<T extends com.driff.android.twitterclient
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131624051, "field 'txtTweet'");
-    target.txtTweet = finder.castView(view, 2131624051, "field 'txtTweet'");
-    view = finder.findRequiredView(source, 2131624053, "field 'ibtReply' and method 'onClick'");
-    target.ibtReply = finder.castView(view, 2131624053, "field 'ibtReply'");
+    view = finder.findRequiredView(source, 2131624054, "field 'txtTweet'");
+    target.txtTweet = finder.castView(view, 2131624054, "field 'txtTweet'");
+    view = finder.findRequiredView(source, 2131624056, "field 'ibtReply' and method 'onClick'");
+    target.ibtReply = finder.castView(view, 2131624056, "field 'ibtReply'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -32,8 +35,8 @@ public class TweetActivity$$ViewBinder<T extends com.driff.android.twitterclient
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131624054, "field 'ibtRetweet' and method 'onClick'");
-    target.ibtRetweet = finder.castView(view, 2131624054, "field 'ibtRetweet'");
+    view = finder.findRequiredView(source, 2131624057, "field 'ibtRetweet' and method 'onClick'");
+    target.ibtRetweet = finder.castView(view, 2131624057, "field 'ibtRetweet'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -42,8 +45,8 @@ public class TweetActivity$$ViewBinder<T extends com.driff.android.twitterclient
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131624055, "field 'ibtLike' and method 'onClick'");
-    target.ibtLike = finder.castView(view, 2131624055, "field 'ibtLike'");
+    view = finder.findRequiredView(source, 2131624058, "field 'ibtLike' and method 'onClick'");
+    target.ibtLike = finder.castView(view, 2131624058, "field 'ibtLike'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -52,8 +55,8 @@ public class TweetActivity$$ViewBinder<T extends com.driff.android.twitterclient
           target.onClick(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131624043, "field 'container'");
-    target.container = finder.castView(view, 2131624043, "field 'container'");
+    view = finder.findRequiredView(source, 2131624046, "field 'container'");
+    target.container = finder.castView(view, 2131624046, "field 'container'");
   }
 
   @Override public void unbind(T target) {

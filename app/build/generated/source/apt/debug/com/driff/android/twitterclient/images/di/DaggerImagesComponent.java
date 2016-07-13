@@ -3,7 +3,7 @@ package com.driff.android.twitterclient.images.di;
 import android.support.v4.app.Fragment;
 import com.bumptech.glide.RequestManager;
 import com.driff.android.twitterclient.api.CustomTwitterApiClient;
-import com.driff.android.twitterclient.entities.Image;
+import com.driff.android.twitterclient.entities.MyTweet;
 import com.driff.android.twitterclient.images.ImagesInteractor;
 import com.driff.android.twitterclient.images.ImagesPresenter;
 import com.driff.android.twitterclient.images.ImagesRepository;
@@ -38,11 +38,11 @@ public final class DaggerImagesComponent implements ImagesComponent {
   private Provider<ImagesRepository> providesImagesRepositoryProvider;
   private Provider<ImagesInteractor> providesImagesInteractorProvider;
   private Provider<ImagesPresenter> providesImagesPresenterProvider;
-  private Provider<List<Image>> providesItemsListProvider;
+  private Provider<List<MyTweet>> providesItemsListProvider;
   private Provider<Fragment> providesFragmentProvider;
   private Provider<RequestManager> providesRequestManagerProvider;
   private Provider<ImageLoader> providesImageLoaderProvider;
-  private Provider<OnItemClickListener<Image>> providesOnItemClickListenerProvider;
+  private Provider<OnItemClickListener<MyTweet>> providesOnItemClickListenerProvider;
   private Provider<ImagesAdapter> providesAdapterProvider;
   private MembersInjector<ImagesFragment> imagesFragmentMembersInjector;
 
