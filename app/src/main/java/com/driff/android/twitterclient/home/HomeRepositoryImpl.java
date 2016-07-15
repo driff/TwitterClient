@@ -48,6 +48,7 @@ public class HomeRepositoryImpl implements HomeRepository {
 
     private retrofit.Callback<List<Tweet>> listCallback() {
         //TODO: check memory consumption of this, if gc not cleaning up i'll have to instantiate it.
+        //TODO: find a way to decouple(?) this or try to implement the post in the new class
         return new Callback<List<Tweet>>() {
             @Override
             public void success(Result<List<Tweet>> result) {

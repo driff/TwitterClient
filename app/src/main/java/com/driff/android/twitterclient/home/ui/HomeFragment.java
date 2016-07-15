@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
+import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -47,6 +48,8 @@ public class HomeFragment extends Fragment implements HomeView, OnHomeItemClickL
     HomeAdapter adapter;
     @Inject
     HomePresenter presenter;
+    @Bind(R.id.refresh)
+    SwipeRefreshLayout refresh;
 
     public HomeFragment() {
     }
@@ -59,8 +62,19 @@ public class HomeFragment extends Fragment implements HomeView, OnHomeItemClickL
         ButterKnife.bind(this, view);
         setupInjection();
         setupRecyclerView();
+        setupRefresh();
         presenter.getHomeTweets();
         return view;
+    }
+
+    private void setupRefresh() {
+        refresh.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                presenter.getHomeTweets();
+                refresh.setRefreshing(false);
+            }
+        });
     }
 
     private void setupInjection() {

@@ -60,7 +60,7 @@ public class HomeModule {
 
     @Provides
     @Singleton
-    HomePresenter providesTimelinePresenter(EventBus eventBus, HomeView view, HomeInteractor interactor) {
+    HomePresenter providesHomePresenter(EventBus eventBus, HomeView view, HomeInteractor interactor) {
         return new HomePresenterImpl(eventBus, view, interactor);
     }
 
@@ -72,13 +72,13 @@ public class HomeModule {
 
     @Provides
     @Singleton
-    HomeInteractor providesTimelineInteractor(HomeRepository repository) {
+    HomeInteractor providesHomeInteractor(HomeRepository repository) {
         return new HomeInteractorImpl(repository);
     }
 
     @Provides
     @Singleton
-    HomeRepository providesTimelineRepository(EventBus eventBus, CustomTwitterApiClient client) {
+    HomeRepository providesHomeRepository(EventBus eventBus, CustomTwitterApiClient client) {
         return new HomeRepositoryImpl(eventBus, client);
     }
 
